@@ -3,4 +3,4 @@
 * sdjlds
 
 
-!['mango'](./images/apple.jpg)
+!['mango'](./image/apple.jpg)
